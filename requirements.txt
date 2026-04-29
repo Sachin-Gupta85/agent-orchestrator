@@ -1,0 +1,2 @@
+# Pure standard library (dataclasses, json). No runtime dependencies.
+# Task bodies are where you call your LLM / tools / APIs; the engine stays generic.
